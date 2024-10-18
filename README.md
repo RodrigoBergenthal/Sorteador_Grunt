@@ -70,7 +70,7 @@ Para executar o projeto, siga os passos abaixo:
 
 ## Autor
 
-- [Seu Nome](https://github.com/rodrigobergenthal)
+- [Rodrigo Bergenthal](https://github.com/rodrigobergenthal)
 
 ## Licença
 
