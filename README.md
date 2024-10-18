@@ -1,5 +1,7 @@
 publicado hein: https://sorteador-grunt-opal-six.vercel.app/
 
+![Sorteador](./projeto4.png)
+
  # Projeto Sorteador de Números
 
 Este é um projeto simples de um sorteador de números desenvolvido como parte de um exercício prático. O objetivo do projeto é criar uma página web que permite ao usuário definir um número máximo e, em seguida, sortear um número aleatório dentro desse intervalo.
